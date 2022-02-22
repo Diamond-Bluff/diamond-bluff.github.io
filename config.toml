@@ -1,4 +1,4 @@
-baseURL = 'http://Diamond-Bluff.github.io/'
+baseURL = 'https://diamond-bluff.github.io/opi-project/'
 languageCode = 'en-us'
 title = 'OPI Project Website'
 theme = "ananke"
