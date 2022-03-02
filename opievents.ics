@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Tijuana
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Tijuana
+X-LIC-LOCATION:America/Tijuana
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220302T141429Z
+UID:1646172686287-50978@ical.marudot.com
+DTSTART;TZID=America/Tijuana:20220315T080000
+DTEND;TZID=America/Tijuana:20220315T133000
+SUMMARY:Open Programmable Infrastructure: Day One
+DESCRIPTION:Join us for Day One of the Programmable Infrastructure online event.\n\nOn the day of the event\, please check back to the website for any updates to the agenda and Zoom link:\n\nhttps://diamond-bluff.github.io/posts/2022-02-22-opi-event/
+LOCATION:https://intel.zoom.us/j/95556827603?pwd=alJINUltbUlIVklzLzBNTXRrRHI4dz09
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T141429Z
+UID:1646172693100-60156@ical.marudot.com
+DTSTART;TZID=America/Tijuana:20220316T080000
+DTEND;TZID=America/Tijuana:20220316T133000
+SUMMARY:Open Programmable Infrastructure: Day Two
+DESCRIPTION:Join us for Day Two of the Programmable Infrastructure online event.\n\nOn the day of the event\, please check back to the website for any updates to the agenda and Zoom link:\n\nhttps://diamond-bluff.github.io/posts/2022-02-22-opi-event/
+LOCATION:https://intel.zoom.us/j/91369118581?pwd=UmdJKzlSd2Z6czNtcWRZYTBsenNVUT09
+END:VEVENT
+END:VCALENDAR
