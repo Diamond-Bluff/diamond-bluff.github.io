@@ -1,6 +1,6 @@
 baseURL = 'https://Diamond-Bluff.github.io/'
 languageCode = 'en-us'
-title = 'OPI Project Website'
+title = 'Diamond Bluff Project Website'
 theme = "ananke"
 
 [params]

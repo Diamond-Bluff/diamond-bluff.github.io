@@ -1,6 +1,6 @@
 ---
 title: "Connect"
-description: "Join the Open Programmable Infrastructure Project"
+description: "Join the Diamond Bluff Project"
 featured_image: '/diamond-bluff-wi.jpg'
 menu:
   main:
@@ -8,6 +8,9 @@ menu:
 ---
 
 The Open Programmable Infrastructure Project is in the early stages of forming.
+The Project will be the merging of the Diamond Bluff project and the IPDK
+Project.
+
 The Information below is how you can participate.
 
 ## Overview Slides

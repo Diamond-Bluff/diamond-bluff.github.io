@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Open Programmable Infrastructure"
+description: "Diamond Bluff"
 featured_image: '/diamond-bluff-wi.jpg'
 menu:
   main:

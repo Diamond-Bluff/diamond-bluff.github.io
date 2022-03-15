@@ -1,5 +1,5 @@
 ---
-title: "Open Programmable Infrastructure"
+title: "Diamond Bluff Project"
 
 description: "Unlocking your programmable future."
 cascade:
