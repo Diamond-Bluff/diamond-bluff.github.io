@@ -7,6 +7,8 @@ menu:
     weight: 1
 ---
 
+<b>NOTE: The Diamond Bluff Project is being archived as it merges with IPDK into the [OPI Project](https://opiproject.org)</b>
+
 The Open Programmable Infrastructure Project is in the early stages of forming.
 The Project will be the merging of the Diamond Bluff project and the IPDK
 Project.
